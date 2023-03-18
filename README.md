@@ -31,3 +31,4 @@ pip install -r requirements.txt
 dvc init
 ```
 
+### STEP 06
